@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #import "GeneratedPluginRegistrant.h"
+=======
+#import "GeneratedPluginRegistrant.h"
+>>>>>>> 9854d16524e6b9ae04b26e4f52b81f4a76682c00
